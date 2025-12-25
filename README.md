@@ -2,7 +2,6 @@
 
 A sleek and simple front-end clone of Google's Gemini AI, built with **React**, **Vite**, and **@google/generative-ai** for interactive text-based chat using the Gemini 2.0 Flash model.
 
-🚀 **Live Demo**: [geminiai829.netlify.app](https://geminiai829.netlify.app/)
 
 ## 🌟 Features
 
